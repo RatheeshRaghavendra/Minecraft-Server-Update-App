@@ -16,8 +16,8 @@ The Process of updating the local Minecraft server isn't a complex process but a
 
 ## How to run the app
 
-- Make sure the .bat file and The MinecraftServerUpdate.jar are in the same folder
-- Change the Origin folder path and Target folder path in the .bat file (make sure to paste them within the doble quotes)
+- Make sure the run.bat file and The Minecraft-Server-Update-App.jar are in the same folder
+- Change the Origin folder path and Target folder path in the run.bat file (make sure to paste them within the doble quotes)
 
 ### Why did I make the app
 
